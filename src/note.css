@@ -1,0 +1,43 @@
+.btn {
+    cursor: pointer;
+    /* background-color: #9c88ff; */
+    /* background-color: cornflowerblue; */
+    /* background-color: rgb(178, 156, 228); */
+    /* background: #9c88ff; */
+    /* background: rgb(203, 128, 250); */
+    background: rgb(176, 118, 212);
+}
+
+
+body {
+    /* background-color: #f7f7f7; */
+    background: linear-gradient(to left, rgb(179, 228, 179), rgb(218, 150, 150));
+
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    min-height: 100vh;
+    margin: 0;
+    font-family: iransans;
+    direction: rtl;
+}
+
+
+/* .goBack {
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+  margin: 10px 30px;
+} */
+
+/* .goBackLink {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  color: rgb(108, 160, 59);
+  justify-content: flex-start;
+  text-align: center;
+  align-items: center;
+} */
