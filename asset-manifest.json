@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-expense-tracker/static/css/main.994a9b24.css",
+    "main.js": "/react-expense-tracker/static/js/main.02798484.js",
+    "static/media/FontsFree-Net-ir_sans.ttf": "/react-expense-tracker/static/media/FontsFree-Net-ir_sans.b405362106aecf6bb79b.ttf",
+    "index.html": "/react-expense-tracker/index.html",
+    "main.994a9b24.css.map": "/react-expense-tracker/static/css/main.994a9b24.css.map",
+    "main.02798484.js.map": "/react-expense-tracker/static/js/main.02798484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994a9b24.css",
+    "static/js/main.02798484.js"
+  ]
+}
